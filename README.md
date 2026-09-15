@@ -156,6 +156,8 @@ brew install --cask mindwtr
 
 ```powershell
 winget install dongdongbh.Mindwtr
+
+scoop bucket add extras
 scoop install extras/mindwtr
 ```
 
