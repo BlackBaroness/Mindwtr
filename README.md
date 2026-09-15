@@ -156,6 +156,7 @@ brew install --cask mindwtr
 
 ```powershell
 winget install dongdongbh.Mindwtr
+scoop install extras/mindwtr
 ```
 
 For APT/RPM repo setup, source builds, portable ZIPs, mobile store variants, and Docker setup, use the full install guides above.
